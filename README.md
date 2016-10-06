@@ -1,4 +1,4 @@
-Firebase Readme
+
 
 With the release of Firebase, you can now store all sensitive data such as Users’ credentials on firebase database. 
 
